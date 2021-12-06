@@ -1,3 +1,4 @@
+curl -v enable-cors.org > /dev/null
 {
   "type": "FeatureCollection",
   "features": [
